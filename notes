@@ -1,0 +1,6 @@
+wget -O splunk-8.0.6-152fb4b2bb96-linux-2.6-amd64.deb 'https://www.splunk.com/bin/splunk/DownloadActivityServlet?architecture=x86_64&platform=linux&version=8.0.6&product=splunk&filename=splunk-8.0.6-152fb4b2bb96-linux-2.6-amd64.deb&wget=true'
+
+
+wget -O splunk-8.0.6-152fb4b2bb96-linux-2.6-x86_64.rpm 'https://www.splunk.com/bin/splunk/DownloadActivityServlet?architecture=x86_64&platform=linux&version=8.0.6&product=splunk&filename=splunk-8.0.6-152fb4b2bb96-linux-2.6-x86_64.rpm&wget=true'
+
+wget -O splunk-8.0.6-152fb4b2bb96-macosx-10.11-intel.dmg 'https://www.splunk.com/bin/splunk/DownloadActivityServlet?architecture=x86&platform=macos&version=8.0.6&product=splunk&filename=splunk-8.0.6-152fb4b2bb96-macosx-10.11-intel.dmg&wget=true'
